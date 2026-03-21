@@ -52,13 +52,21 @@ export const siteConfig = {
   experience: [
     {
       company: "Larsen & Toubro",
-      title: "Data Analyst Intern",
+      title: "Full Stack Intern",
       dateRange: "Dec 2024 - March 2025",
       bullets: [
         "Developed high-performance Node.js pipelines for machine telemetry ingestion, ensuring data integrity for downstream AI analysis.",
         "Built a RAG-based analytical engine using LLMs to query historical logs via natural language, reducing fault diagnosis time by 40%.",
         "Optimized PostgreSQL time-series performance through partitioning and indexing, reducing API latency for complex aggregations.",
         "Orchestrated real-time monitoring via WebSockets and streamlined Docker-based deployments for CI/CD environment consistency."
+      ],
+    },
+    {
+      company: "Concentric AI",
+      title: "Backend Intern",
+      dateRange: "March 2025 - ",
+      bullets: [
+        "Currently working as a backend intern at Concentric AI"
       ],
     },
 
