@@ -119,7 +119,7 @@ export const siteConfig = {
     {
       company: "Concentric AI",
       title: "SWE Intern",
-      dateRange: "March 2025 - ",
+      dateRange: "March 2026 - ",
       bullets: ["Currently working as a SWE intern at Concentric AI"],
     },
   ],
