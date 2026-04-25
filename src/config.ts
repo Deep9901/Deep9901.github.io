@@ -118,9 +118,9 @@ export const siteConfig = {
     },
     {
       company: "Concentric AI",
-      title: "Backend Intern",
+      title: "SWE Intern",
       dateRange: "March 2025 - ",
-      bullets: ["Currently working as a backend intern at Concentric AI"],
+      bullets: ["Currently working as a SWE intern at Concentric AI"],
     },
   ],
   education: [
