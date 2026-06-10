@@ -129,8 +129,8 @@ export const siteConfig = {
       degree: "Bachelor of Science in Computer Science",
       dateRange: "2022-2026",
       achievements: [
-        "Current CGPA Laude (9.19/10)",
-        "Top 5% of the class",
+        "CGPA (9.26/10)",
+        "Top 2% of the class",
         "Former President of Open-Source Club",
       ],
     },
